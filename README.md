@@ -8,4 +8,6 @@ This is an example repo for the MEA course Cohort-19.
 ##### Day Three
 ###### Day Four
 
-this is some new text
+this is some new text and a new umbrealla
+![umbrella](https://img.cdn.mountainwarehouse.com/product/023641/023641_bla_classic_umbrella_plain_har_ss24_01.jpg?w=500)
+
